@@ -1,0 +1,13 @@
+﻿Acme Corp - Employee Handbook (sample)
+
+Working Hours
+Standard working hours are 9:30 AM to 6:30 PM, Monday to Friday. Employees may work from home up to 2 days per week with manager approval.
+
+Leave Policy
+Employees receive 18 days of paid annual leave per year, plus 12 casual/sick leave days. Unused annual leave up to 10 days can be carried forward to the next year. Leave requests must be submitted in the HR portal at least 3 days in advance.
+
+Reimbursements
+Travel and meal expenses for client visits are reimbursed within 15 days of submitting receipts through the Finance portal. The daily meal allowance is INR 1,000.
+
+IT Support
+For laptop or access issues, email it-support@acme.example or call extension 4040. Support is available 9 AM to 9 PM on weekdays.
